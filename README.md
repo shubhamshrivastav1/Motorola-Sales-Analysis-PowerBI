@@ -9,9 +9,6 @@
   Transforming Mobile Sales Data into Meaningful Business Insights Using Microsoft Power BI.
 </p>
 
-<p align="center">
-  <img src="Screenshots/dashboard-preview.png" alt="Motorola Sales Analysis Dashboard" width="100%">
-</p>
 
 ---
 
@@ -29,7 +26,11 @@ It helps users understand business performance, identify sales trends, compare p
 
 ## ScreenShot of Dashboard
 
-<img width="1380" height="747" alt="Screenshot 2026-11-02 210514" src="https://github.com/user-attachments/assets/d1ff1ee1-ec59-44cc-bb7a-a064690a8f10" />
+
+<p align="center">
+  <img width="1380" height="747" alt="Screenshot 2026-11-02 210514" src="https://github.com/user-attachments/assets/d1ff1ee1-ec59-44cc-bb7a-a064690a8f10" />
+
+</p>
 
 
 ## 🎯 2. Business Problem
